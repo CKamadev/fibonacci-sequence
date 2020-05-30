@@ -1,3 +1,3 @@
 # Introduction to fibonacci-sequence
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+A Fibonacci sequence program written by Clojure.
